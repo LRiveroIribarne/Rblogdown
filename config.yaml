@@ -1,5 +1,5 @@
-baseURL: https://example.com
-title: Your title
+baseURL: "https://ccovid.netlify.app/"
+title: "Hola"
 theme: hugo-theme-m10c
 paginate: 8
 menu:
